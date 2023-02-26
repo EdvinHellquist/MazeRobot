@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="JavaDocRobot2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Robot2.0/JavaDocRobot2.0/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Robot2.0/JavaDocRobot2.0/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Robot2.0/JavaDocRobot2.0/type-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
